@@ -1,55 +1,107 @@
-# Data Scientist
+# Paschal  Uzoegwu - Data Analyst & Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+Welcome to my GitHub Pages site! This repository serves as a portfolio showcasing my expertise and projects as a Data Analyst and a Data Scientist. Below, you'll find details about my education, skills, professional experience, projects, certifications, and more.
+
+## Personal Information
+
+- *LinkedIn:* [Uzoegwu Paschal](https://www.linkedin.com/in/uzoegwu-paschal)
+- *Phone:* +4407503941126
+- *Email:* sparkysparo@yahoo.com
+
+## Personal Summary
+
+I am an accomplished Data Analyst and Data Scientist with weatlth of experience in financial modeling, analytical prowess, and SQL proficiency. As a Data Analyst, I excel in presenting complex findings, managing projects, and transforming raw data into actionable insights. I have a proven track record of supporting senior analysts, managing workflows, and contributing to reports and qualitative insights.
+
+In addition to my expertise as a Data Analyst, I bring strong skills as a Data Scientist. I am proficient in utilizing advanced techniques such as deep learning and machine learning algorithms to extract meaningful insights and enhance decision-making processes. My skill set includes proficiency in Python, SQL, and R programming languages, along with frameworks such as Pandas, NumPy, Scikit-Learn, and visualization tools like Matplotlib and Seaborn. I am experienced in developing predictive models, creating data visualizations, and deploying scalable data pipelines to streamline data processing.
+I am a strong communicator with excellent problem-solving abilities, adept at collaborating with cross-functional teams to understand business requirements and deliver data-driven solutions. My soft skills include effective stakeholder management, teamwork, and delivering compelling presentations to communicate complex technical concepts effectively.
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- *Master of Science (MSc) in Data Science*
+  - University of Hertfordshire, Hatfield, United Kingdom
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- *Bachelor of Science (BSc) in Anatomy*
+  - Nnamdi Azikiwe University, Awka, Anambra, Nigeria
+
+## Skills Summary
+- *Languages:* Python, SQL, R
+- *Frameworks:* Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+- *Tools:* Power BI, Excel, PowerPoint, Tableau, MySQL, SQLite, Spyder, Azure, Jupyter
+- *Platforms:* Jupyter Notebook, PyCharm, Spyder, Visual Studio Code
+- *Soft Skills:* Team collaboration, Strong Stakeholder Management, Excellent communication
+
+## Professional Experience
+
+### British Airways
+#### June 2024
+
+- *Data Science Job Simulation on Forage*
+  - Demonstrated data science's impact on British Airways by improving operational efficiency and customer satisfaction.
+  - Scraped and analyzed customer review data, enhancing service quality and increasing customer satisfaction.
+  - Built a predictive model for targeted marketing efforts, leading to increased sales.
+
+### Accenture North America
+#### June 2024
+
+- *Data Analytics and Visualization Job Simulation on Forage*
+  - Advised a hypothetical social media client by analyzing content trends and preparing strategic insights.
+  - Presented findings through a PowerPoint deck and video presentation.
+
+### The University of Hertfordshire
+#### 2023 – 2024
+
+- *Career Development (Data Scientist)*
+  - Developed predictive models and algorithms using deep learning techniques, increasing accuracy.
+  - Applied machine learning to analyze datasets and enhance decision-making processes.
+  - Created data visualizations to communicate insights effectively.
+
+### Nnamdi Azikiwe University Teaching Hospital
+#### 2020 – 2023
+
+- *Data Analyst*
+  - Designed reporting environments and created visual reports using Tableau and Power BI.
+  - Applied statistical methods to improve data accuracy and contribute to business strategy.
+  - Processed confidential patient data according to guidelines.
+
+### Concept Hub
+#### 2019 – 2020
+
+- *Data Entry Clerk*
+  - Maintained database accuracy by entering and purging data.
+  - Ensured confidentiality compliance and data integrity.
+
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+- *Analysis of Happiness Regional Variations*
+  - Used Python to explore happiness scores across regions, identifying key influencing factors.
+  - Presented findings to increase awareness of regional disparities in happiness.
+  - [Analysis of Happiness Regional Variations](https://github.com/sparkysparo/Analysis-of-Happiness-Regional-Variations.Paschal-Uzoegwu-21063051.ADS-Assignment)
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+- *Analysis of Bank Authentication Data*
+  - Employed clustering algorithms to detect patterns in transaction data, improving fraud detection.
+  - [Analysis of Bank Authentication Data](https://github.com/sparkysparo/Analysis-of-Bank-Authentication-Data.Paschal-Uzoegwu-21063051.ADS-Project-On-Clustering-And-Fitting)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+- *Investigating Netflix Movies*
+  - Analyzed movie length trends on Netflix using Python, contributing to content strategy planning.
+  - [Investigating Netflix Movies](https://github.com/sparkysparo/Investigating-Netflix-Movies)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+## Certifications
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+- [Data Science Orientation, December 2022](https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/)
+- [Excel To Power BI, January 2024](https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/)
+- [Data Visualization (Kaggle), 2024](https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/)
+- [Microsoft Power BI, 2024](https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/)
+- [Foundations of Data Science: K Means Clustering in Python, August 2023](https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/)
+- [Excel For Data Analysis, September 2023](https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/)
+- [SQL (DataCamp), 2024](https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/)
+- [Data Science Diploma (Allison)](https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/)
+- [Data Analyst Associate, 2024](https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/)
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+## Hobbies
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)
+- Programming and Coding
+- Football
+- Providing useful insights with data
+- Basketball

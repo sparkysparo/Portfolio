@@ -1,5 +1,9 @@
-title: Shaw Talebi
-logo: /assets/img/headshot_circle.png
-#description: text below image
+title: Paschal Uzoegwu
+logo: /assets/img/link.jpeg
 show_downloads: true
 theme: jekyll-theme-minimal
+# Social links
+social_links:
+  twitter: https://twitter.com/sparkysparo
+  github: https://github.com/sparkysparo
+  linkedin: https://www.linkedin.com/in/uzoegwu-paschal/

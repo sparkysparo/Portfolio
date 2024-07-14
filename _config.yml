@@ -1,10 +1,60 @@
-title: "Paschal Uzoegwu"
-logo: "/assets/img/link.jpeg"
-theme: "jekyll-theme-minimal"
+# Site settings
+title: Paschal Uzoegwu's Portfolio
+description: Welcome to Paschal Uzoegwu's portfolio showcasing projects and blog posts.
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+url: "https://sparkysparo.github.io" # the base hostname & protocol for your site
+github_username: sparkysparo
 
-# Social Links
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Permalinks
+permalink: /:categories/:title/
+paginate: 5 # Number of posts to show per page
+
+# Google Analytics
+google_analytics: UA-XXXXXXXX-X # Your Google Analytics tracking ID
+
+# Social links
 social_links:
-  twitter: "https://twitter.com/sparkysparo"
-  github: "https://github.com/sparkysparo"
-  linkedin: "https://www.linkedin.com/in/uzoegwu-paschal/"
+  twitter: https://twitter.com/sparkysparo
+  github: https://github.com/sparkysparo
+  linkedin: https://www.linkedin.com/in/uzoegwu-paschal/
+
+# Author settings
+author:
+  name: Paschal Uzoegwu
+  email: sparkysparo@yahoo.com
+  twitter: sparkysparo
+  image: /assets/author-profile.jpg  # Path to your author profile image
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Defaults for posts
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author: Paschal Uzoegwu
+
+# Custom variables
+custom_var: custom_value
+
+# Configuration for Jekyll Feed
+feed:
+  path: atom.xml
+
 

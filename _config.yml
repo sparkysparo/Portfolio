@@ -1,9 +1,10 @@
-title: Paschal Uzoegwu
-logo: /assets/img/link.jpeg
-show_downloads: true
-theme: jekyll-theme-minimal
-# Social links
+title: "Paschal Uzoegwu"
+logo: "/assets/img/link.jpeg"
+theme: "jekyll-theme-minimal"
+
+# Social Links
 social_links:
-  twitter: https://twitter.com/sparkysparo
-  github: https://github.com/sparkysparo
-  linkedin: https://www.linkedin.com/in/uzoegwu-paschal/
+  twitter: "https://twitter.com/sparkysparo"
+  github: "https://github.com/sparkysparo"
+  linkedin: "https://www.linkedin.com/in/uzoegwu-paschal/"
+

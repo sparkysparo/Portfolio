@@ -9,13 +9,12 @@ Welcome to my GitHub Pages site! This repository showcases my expertise and proj
 
 ## Personal Summary
 I am a dynamic Data Scientist with over half a decade of experience in financial modeling, data analysis, and machine learning. I excel in transforming raw data into actionable insights, leveraging Python, SQL, R, and advanced machine learning techniques to enhance decision-making processes. My proficiency extends to frameworks such as Pandas, NumPy, Scikit-Learn, and visualization tools like Matplotlib and Seaborn. Additionally, I have deployed scalable machine learning pipelines using AWS and Azure.
-
 Has a keen interest in using statistical and machine learning techniques to solve business problems with hands-on experience in implementing ETL processes and handling data science projects from development to deployment stage. Skilled in machine learning, statistical analysis, data visualization, programming, data analysis, big data tools, and project management tools. I am a collaborative team player with strong communication skills, and I thrive in delivering data-driven solutions that empower business innovation.
 
 ## Education
 - **Master of Science (MSc) in Data Science**  
   University of Hertfordshire, Hatfield, United Kingdom  
-  *(Expected Graduation: 2025)*
+  
 - **Bachelor of Science (BSc) in Anatomy**  
   Nnamdi Azikiwe University, Awka, Anambra, Nigeria
 

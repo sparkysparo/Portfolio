@@ -53,7 +53,7 @@ Has a keen interest in using statistical and machine learning techniques to solv
 ## Professional Experience
 
 ### The University of Hertfordshire (2023 – Present)
-- **Role**: Career Development (Data Scientist)
+- **Role**: Data Scientist
 - **Technologies**: Python, TensorFlow, Keras, Scikit-Learn, Azure
 - **Responsibilities**:
   - Developed and deployed predictive models using deep learning techniques, increasing model accuracy by 25%.
@@ -61,7 +61,7 @@ Has a keen interest in using statistical and machine learning techniques to solv
   - Collaborated with cross-functional teams to deliver data-driven solutions, boosting project efficiency by 20%.
 
 ### Nnamdi Azikiwe University Teaching Hospital (2020 – 2023)
-- **Role**: Data Analyst
+- **Role**: Senior Data Analyst
 - **Technologies**: Power BI, Tableau, SQL, Python
 - **Responsibilities**:
   - Managed the reporting environment, improving stakeholder satisfaction by 30%.
